@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <Navbar bg="light" sticky="top" className="Header">
       <Container>
-        <Navbar.Brand>Microblog</Navbar.Brand>
+        <Navbar.Brand>Beatbox</Navbar.Brand>
       </Container>
     </Navbar>
   );
