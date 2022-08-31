@@ -1,5 +1,5 @@
 .App {
-  padding: 0!important;
+  padding: 0;
 }
 
 .Header {
@@ -15,8 +15,8 @@
   align-items: start;
 }
 
-.Sidebar .nav-item {
-  width: 100%;
+.Sidebar .nav-item .active {
+  background-color: #def;
 }
 
 .Sidebar a {
